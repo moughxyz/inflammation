@@ -78,7 +78,7 @@
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
-    "build": "vsce package",
+    "build": "vsce package --out vsix/",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
     "pretest": "npm run compile && npm run lint",
