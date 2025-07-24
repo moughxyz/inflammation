@@ -1,4 +1,10 @@
+<div align="center">
+
+![Inflammation Icon](icon.png)
+
 # Inflammation - Line Aware Voice-to-Code Extension
+
+</div>
 
 Inflammation lets you dictate code inside VSCode/Cursor. It's context aware and let's you convert speech like
 
