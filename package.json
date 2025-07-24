@@ -2,7 +2,7 @@
   "name": "inflammation",
   "displayName": "Inflammation - Voice to Code",
   "description": "Context aware, single-line AI voice-to-code dictation.",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "moughxyz",
   "repository": {
     "type": "git",
