@@ -1,6 +1,6 @@
 <div align="center">
 
-![Inflammation Icon](icon.png)
+<img src="icon.png" width="50%" alt="Inflammation Icon">
 
 # Inflammation - Line Aware Voice-to-Code Extension
 
