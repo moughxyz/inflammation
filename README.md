@@ -8,13 +8,15 @@
 
 Inflammation lets you dictate code inside VSCode/Cursor. It's context aware and let's you convert speech like
 
-> export function foo take in string bar and string car return string"
+> export function foo take in string bar and string car return string
 
 into
 
 ```ts
 export function foo(bar: string, car: string): String {}
 ```
+
+You can see a demo video [here](https://x.com/moughxyz/status/1948477448838152259).
 
 It's named inflammation because it's gotten hard for me to type on some days due to inflammation and I needed something
 I can dictate to on a line-per-line basis.
