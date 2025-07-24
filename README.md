@@ -25,6 +25,16 @@ And that's it.
 
 You can change the hotkey by going into your keyboard shortcut prefs: **Preferences :Open Keyboard Shortcuts.** from the command pallete.
 
+## Installation
+
+### From VSCode Marketplace:
+
+https://marketplace.visualstudio.com/items?itemName=moughxyz.inflammation
+
+### From vsix file:
+
+You can find the .vsix files in the vsix dir on GitHub:
+
 ## Prerequisites
 
 ### 1. Audio Recording Software
