@@ -13,7 +13,7 @@ Inflammation lets you dictate code inside VSCode/Cursor. It's context aware and 
 into
 
 ```ts
-export function foo(bar: string, car: string): String {}
+export function foo(bar: string, car: string): string {}
 ```
 
 You can see a demo video [here](https://x.com/moughxyz/status/1948477448838152259).
